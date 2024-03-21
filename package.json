@@ -2,6 +2,7 @@
   "name": "employee-app-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Jincy98Ashna.github.io/Employee-app-frontend",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
