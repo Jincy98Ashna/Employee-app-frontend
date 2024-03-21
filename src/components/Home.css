@@ -1,0 +1,28 @@
+
+
+.table-data {
+    width: 80%; /* Ensure table takes full width */
+    margin-left: 10%;
+    border-collapse: collapse; /* Merge cell borders */
+  }
+  
+  .table-data th,
+  .table-data td {
+    padding: 10px; /* Add padding between cells */
+    border: 1px solid black; /* Add border for visualization */
+  }
+  
+  h5{
+    color: teal;
+  }
+
+  .table-data th{
+    color: teal;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .table-data td{
+    font-family:'Times New Roman', Times, serif;
+    /* font-weight: bold; */
+  }
